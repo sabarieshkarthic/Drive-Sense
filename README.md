@@ -21,7 +21,7 @@
 ## 📥 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Dhiyanesh-B/Drive-Sense.git
+   git clone https://github.com/sabarieshkarthic/Drive-Sense.git
    cd drive-sense
    ```
 2. Connect the Arduino board with computer using Arduino IDE(if not installed install it [click here](https://www.arduino.cc/en/software/))
