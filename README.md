@@ -29,7 +29,7 @@
 4. and you can run it.
 
 ## ▶️ Demo
-[!Watch the video](https://github.com/Dhiyanesh-B/Drive-Sense/blob/10c491648af48acd3243c471952a6883765b97dd/demo.mp4)
+[!Watch the video](https://github.com/sabarieshkarthic/Drive-Sense/blob/10c491648af48acd3243c471952a6883765b97dd/demo.mp4)
 
 ### Team Members
 1. Devkumar K
